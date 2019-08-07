@@ -2,7 +2,7 @@
 Basic CNN-based games
 =====================
 
-Some basic CNN-based games controlled by hand poses. Both systems work in real-time. The Convolutional Neural Networks (CNNs) were trained using Caffe framework. OpenCV libraries were used. In order to obtain a better computation performance, the system was implemented using C++ language. The systems are intended to work on Linux systems, however, can be compiled for Windows or other Operative System.
+Some basic CNN-based games controlled by hand poses. Both systems work in real-time. The Convolutional Neural Networks (CNNs) were trained using Caffe framework. OpenCV libraries were used. In order to obtain a better computation performance, the system was implemented using C++ language. The systems are intended to work on Linux systems, however, can be compiled for Windows or other Operating System.
 
 Here, two games are presented:
 
@@ -13,7 +13,6 @@ Here, two games are presented:
 - Yan Ken Po game:
 
 [![Yan Ken Po game](https://i9.ytimg.com/vi/L42mliEAv3w/mq1.jpg?sqp=CIjErOoF&rs=AOn4CLAM-OAEVmaFdyxabjDYlLBsisjogA)](https://www.youtube.com/watch?v=L42mliEAv3w "Yan Ken Po game")
-
 
 In order to modify the code, you should compile with:
 
