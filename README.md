@@ -27,6 +27,10 @@ Finally, execute the created file. Example:
 $ ./yankenpo
 ```
 
+## License ##
 
+GNU General Public License, version 3 (GPLv3).
+
+You can visit my personal website: [http://dennishnf.bitbucket.io](http://dennishnf.bitbucket.io)!.
 
 
