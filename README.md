@@ -6,13 +6,9 @@ Some basic CNN-based games controlled by hand poses. Both systems work in real-t
 
 Here, two games are presented:
 
-- Musical instruments game: 
+- [Musical instruments game](https://www.youtube.com/watch?v=DilmBQpA9iw). 
 
-[![Musical instruments game](https://i9.ytimg.com/vi/DilmBQpA9iw/mq3.jpg?sqp=CIjErOoF&rs=AOn4CLANtSw9VWJGYYVFdW-cgJMYOHkg9g)](https://www.youtube.com/watch?v=DilmBQpA9iw "Musical instruments game")
-
-- Yan Ken Po game:
-
-[![Yan Ken Po game](https://i9.ytimg.com/vi/L42mliEAv3w/mq1.jpg?sqp=CIjErOoF&rs=AOn4CLAM-OAEVmaFdyxabjDYlLBsisjogA)](https://www.youtube.com/watch?v=L42mliEAv3w "Yan Ken Po game")
+- [Yan Ken Po game](https://www.youtube.com/watch?v=L42mliEAv3w).
 
 In order to modify the code, you should compile with:
 
@@ -30,6 +26,10 @@ $ ./yankenpo
 
 GNU General Public License, version 3 (GPLv3).
 
-You can visit my personal website: [http://dennishnf.bitbucket.io](http://dennishnf.bitbucket.io)!.
+## About ##
+
+By: Dennis Núñez-Fernández
+
+Website: [http://dennishnf.com](http://dennishnf.com)
 
 
