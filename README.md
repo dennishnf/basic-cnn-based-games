@@ -6,9 +6,9 @@ Some basic CNN-based games controlled by hand poses. Both systems work in real-t
 
 Here, two games are presented:
 
-- Musical instruments game [[demo](https://www.youtube.com/watch?v=DilmBQpA9iw)]. 
+- Musical instruments game. [[demo](https://www.youtube.com/watch?v=DilmBQpA9iw)]
 
-- Yan Ken Po game [[demo](https://www.youtube.com/watch?v=L42mliEAv3w)].
+- Yan Ken Po game. [[demo](https://www.youtube.com/watch?v=L42mliEAv3w)]
 
 In order to modify the code, you should compile with:
 
